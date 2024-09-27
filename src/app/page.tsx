@@ -30,6 +30,7 @@ export default function Home() {
       <Blog />
       <CTA />
       <Footer />
+      
     </main>
   );
 }
